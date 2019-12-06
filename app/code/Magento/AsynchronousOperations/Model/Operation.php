@@ -10,7 +10,7 @@ use Magento\AsynchronousOperations\Model\OperationStatusValidator;
 use Magento\Framework\DataObject;
 
 /**
- * Class Operation
+ * Class Operation encapsulates methods for Operation Model Object
  */
 class Operation extends DataObject implements OperationInterface
 {
